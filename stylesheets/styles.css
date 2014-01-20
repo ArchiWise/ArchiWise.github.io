@@ -1,6 +1,6 @@
 body{
     color:#ffffff;
-    background: #010a26;
+    background: #39393d;
     background-image: url("/images/background-tile.jpg");
     font-family: futura-std-light, helvetica;
 }
@@ -16,7 +16,7 @@ body{
 }
 
 .blue-line {
-    background: #004669;
+    background: #dee0d6;
     height: 0.625em;
 }
 
@@ -30,7 +30,7 @@ div.nopadding {
 /* =========menu========= */
 
 .menu {
-    background: #0D0D0D;
+    background: #56565c;
     font-family:  helvetica, futura-std-heavy;
     font-weight: bold;
     text-transform: capitalize;
@@ -71,7 +71,7 @@ div.nopadding {
 /* =========content========= */
 
 a, a:visited{
-	color: #7f0900;
+	color: #7f7b73;
 }
 
 ul {
