@@ -1,6 +1,8 @@
 body{
-	background-color:#d9d9d9;
-	color: #777
+	background-color: #DEE0D6;
+ 	/*color:#69696F;*/
+ 	color: #000000;
+/* 	font-family: "Century Gothic"; */
 }
 
 /* To allow scaling to large screens */
@@ -108,10 +110,12 @@ footer {
     visibility: hidden;}
 .clearfix {display: inline-block;}
 
-iframe#introlution {
-	width:100%;
-	height:60em;
-	border:none;
+
+span.archiwise{
+	color:#46464C;/*79797F;
+	/*color: #56565C;*/
+	text-decoration: none;
+	font-size:larger;
 }
 
 /* Footer ---------------------- */
