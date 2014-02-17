@@ -2,7 +2,11 @@
 layout: page
 title: What works in IT architecture ... and what doesn't?
 categories: session
+excerpt: A discussion organised by BelgAF on the BAEA on what works and doesn't work in IT architecture.
+type: post
 ---
+
+
 
 What works in it architecture ... and what doesn't?, workshop organized with the BelgAF collegues and Kurt Cuijpers at BAEA (more information), 13/12/2012
 Abstract
@@ -16,3 +20,4 @@ Kurt Cuijpers, chief architect at De Lijn, closes the evening with the story of 
 This session is offered by The Belgian Architecture Forum for a Digital World (or short: BelgAF, http://www.belgaf.be/ ). It is a non-profit organization in Belgium organising in-depth discussions and sessions like this one with the aim of professionalizing IT Architecture by sharing experience and knowledge, working on creating new insights and helping new IT Architects find their way.
 
 (session website @BAEA , session website @BelgAF )
+
