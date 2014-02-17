@@ -1,0 +1,8 @@
+Backlog:
+----
+
+- Update home to better represent what we do
+- Update reference page to provide better references
+- Add last sessions to the sessions page
+- Use updated CV
+- Add a first blog item
