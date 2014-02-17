@@ -1,5 +1,5 @@
 ---
 layout: page
-title: Latest News
+title: Sessions
 ---
 
