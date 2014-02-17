@@ -15,7 +15,7 @@ title: About
 		
 		dr. Nelis Bouck&eacute;<br>
 		Software Architect and CTO<br>
-		Curriculum Vitae (<a href="CVNelisBoucke.pdf" target="_blank">pdf</a>)<br>
+		Curriculum Vitae (<a href="files/CVNelisBoucke.pdf" target="_blank">pdf</a>)<br>
 		+32 (0) 486 76 12 71<br>
 		<script TYPE="text/javascript">
 		<!-- 
@@ -31,7 +31,7 @@ title: About
 		<img alt="Foto Alexander Helleboogh" class="mugshot centered" src="/images/photos/FotoAlexanderA.png"><br>
 		dr.ir. Alexander Helleboogh<br>
 		Software Architect and CEO<br>
-		Curriculum Vitae (<a href="CVAlexanderHelleboogh.pdf" target="_blank">pdf</a>)<br>
+		Curriculum Vitae (<a href="files/CVAlexanderHelleboogh.pdf" target="_blank">pdf</a>)<br>
 		+32 (0) 486 88 41 36<br>
 		<script TYPE="text/javascript">
 		<!-- 
