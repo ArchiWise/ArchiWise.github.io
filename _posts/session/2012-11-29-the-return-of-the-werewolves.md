@@ -28,3 +28,4 @@ After day 2, all teams give their final demo to the product owner and a winner w
 
 ####More information
 - [XP days 2012 program](http://www.xpday.net/Xpday2012/public_program/sessions/91/public.html)
+- [Softwarewolves game as activity for your company](http://softwarewolves.net)
