@@ -10,7 +10,7 @@ title: About
 
 
 <div class="row">
-	<div class="col-md-6">
+	<div class="col-md-6 text-center">
 		<img alt="Foto Nelis Boucke" class="mugshot centered" src="/images/photos/FotoNelisA.png"><br>
 		
 		dr. Nelis Bouck&eacute;<br>
@@ -27,7 +27,7 @@ title: About
 			<em> [email address protected, please enable JavaScript] </em>
 		</NOSCRIPT>     
 	</div>
-	<div class="col-md-6">
+	<div class="col-md-6 text-center">
 		<img alt="Foto Alexander Helleboogh" class="mugshot centered" src="/images/photos/FotoAlexanderA.png"><br>
 		dr.ir. Alexander Helleboogh<br>
 		Software Architect and CEO<br>
