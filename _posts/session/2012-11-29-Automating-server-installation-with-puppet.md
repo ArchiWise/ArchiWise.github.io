@@ -26,4 +26,5 @@ After the session, you should:
 - Participants are expected to bring their own laptop that either has VMWare or virtual box installed, and enough free resources to run a virtual machine with minimal 512MB memory (or better: 1GB) and a few gigabytes of free diskspace. If possible, download and install the learning environment beforehand from [the puppet website](http://info.puppetlabs.com/download-learning-puppet-VM.html)
 
 ####More information
+- [XP Days Benelux 2012](http://www.xpday.net/Xpday2012/FrontPage.html)
 - [session website @xp-days](http://www.xpday.net/Xpday2012/public_program/sessions/52/public.html)
