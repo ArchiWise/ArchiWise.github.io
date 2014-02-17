@@ -3,7 +3,7 @@ layout: page
 title: About
 ---
 
-<h2>About us</h2>
+###About us
 <p>Alexander and Nelis, the two founders of <span class="archiwise">archi<b>wise</b></span>, started their collaboration as PhD researchers at the Department of Computer Science of the K.U.Leuven. Together they have been involved in many industry projects and research activities on software architecture for complex distributed systems. Over the years they gained expert knowledge on the latest architectural approaches and applied these in different domains. </p>
 
 <p>As founders of <span class="archiwise">archi<b>wise</b></span>, they assist organizations in exploiting state-of-the-art architectural methods, techniques and tools.</p>

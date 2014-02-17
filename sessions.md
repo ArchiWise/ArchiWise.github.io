@@ -2,8 +2,8 @@
 layout: page
 title: Sessions
 ---
-
-We regularly organize sessions at conferences on architecture-related topics:
+###Sessions
+We regularly organize sessions on architecture-related topics:
 
 <ul>
 	{% for post in site.posts %}

@@ -3,7 +3,7 @@ layout: page
 title: References
 ---
 
-<h2>References</h2>
+###References
 
 <table width="100%">
 	<tr>

@@ -2,11 +2,8 @@
 layout: page
 title: How much architecture documentation is needed?
 categories: session
-excerpt: Discussion organized at BelgAF by Alexander (more information), 17/01/2013
+excerpt: Discussion organized at BelgAF by Alexander, 17/01/2013
 ---
-
-###How much architecture documentation is needed?
-Discussion organized at BelgAF by Alexander, 17/01/2013
 
 ####Abstract
 Time-boxed discussion on the following topics:
@@ -18,3 +15,6 @@ Time-boxed discussion on the following topics:
 * Continuously evolving documentation
 * Tools for architecture documentation
 * Evaluating architecture documentation
+
+####More information
+- [BelgAF website](http://www.belgaf.be/agenda)
