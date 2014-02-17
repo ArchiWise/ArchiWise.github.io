@@ -1,11 +1,5 @@
 exclude: [README.md,Gemfile,Gemfile.lock,old]
 
-description: "Huisartsenpraktijk De Vaart, een groepspraktijk in Mechelen Zuid aan Stuivenbergvaart met dr. Sofie Decamps en dr. Sofie Van Tongelen. Tel: 015/480303."
-keywords: "huisarts mechelen, huisartspraktijk mechelen, 
-    	huisarts mechelen zuid, huisartspraktijk mechelen zuid, dokter mechelen, 
-    	dokter mechelen zuid, huisartsen de vaart, huisartsenpraktijk de vaart, 
-    	de vaart, huisarts, huisartsenpraktijk, sportarts, sportarts mechelen, s
-    	portarts mechelen zuid, lijfarts, lijfarts mechelen, lijfarts mechelen zuid, 
-    	groepspraktijk, groepspraktijk mechelen zuid, groepspraktijk mechelen,
-    	stuivenbergvaart, stuivenbergvaart 52, Sofie Decamps, Sofie Van Tongelen"
-main_title: "archiwise.com"
+description: "ArchiWise offers software development expertise with a focus on software architecture."
+keywords: "Nelis, Boucké, Alexander, Helleboogh, software architecture, software development, architecture, development, software development, ontwikkeling, software ontwikkeling, solution architecture, enterprise architecture, business architecture, functional analysis"
+main_title: "Archiwise"

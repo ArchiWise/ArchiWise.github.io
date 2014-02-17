@@ -13,13 +13,16 @@ body{
 
 /* Header ---------------------- */
 header{
-	background-color:#91D5D6;
+	background-color:#39393D;
+		border-bottom: 1px;
+	border-bottom-style:solid;
+	border-bottom-color:#8A8D8B;
 }
 
 div.headerbar{
 	margin-top:1em;
 	padding-left: 1em;
-	background-color: #33CCCC;
+	background-color:#39393D;
 }
 
 /* Menu ---------------------- */
@@ -43,7 +46,7 @@ span.menubutton {
 
 .btn-group-lg > a.btn:hover, .btn-group-lg > a.btn:active, .btn-group-lg > a.btn:focus {
 	color:#00000;
-	background-color: #008cba;
+	background-color: #56565C;
 }
 
 .btn-group-lg > a.btn {
@@ -51,7 +54,7 @@ span.menubutton {
 	font-size: 16px;
 	border-radius: 0px;
 	color: #ffffff;
-  	background-color: #1B6666;	
+  	background-color: #56565C;	
 }
 
 /* Content ---------------------- */
@@ -59,6 +62,9 @@ span.menubutton {
 div.content{
 	background-color: #FFFFFF;
 	padding:2em;
+	border: solid;
+	border-width: thin;
+	border-color: #CECFCD;
 	
 }
 
@@ -80,6 +86,10 @@ img.centered {
 
 ul.dr-roles{
 	font-size: 80%;
+}
+
+a:link, a:visited {
+	color:#8B8A15;
 }
 
 /* Making the content 100% */
