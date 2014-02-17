@@ -6,7 +6,9 @@ excerpt: Discussion organized at BelgAF by Alexander (more information), 17/01/2
 ---
 
 ###How much architecture documentation is needed?
-Discussion organized at BelgAF by Alexander (more information), 17/01/2013
+Discussion organized at BelgAF by Alexander, 17/01/2013
+
+####Abstract
 Time-boxed discussion on the following topics:
 
 * When to write documentation?
