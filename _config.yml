@@ -3,3 +3,4 @@ exclude: [README.md,Gemfile,Gemfile.lock,old]
 description: "ArchiWise offers software development expertise with a focus on software architecture."
 keywords: "Nelis, Boucké, Alexander, Helleboogh, software architecture, software development, architecture, development, software development, ontwikkeling, software ontwikkeling, solution architecture, enterprise architecture, business architecture, functional analysis"
 main_title: "Archiwise"
+timezone: Europe/Brussels
