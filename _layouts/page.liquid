@@ -58,7 +58,9 @@
 			</nav>
 			<div class="row contentcontainer">
 				<div class="{{ grid_columns }} content">
-				
+					{% if page.categories contains 'session' %}
+						<a href="/sessions.html"><span class="glyphicon glyphicon-chevron-left"></span> Back to sessions</a>
+					{% endif %}
 					{{ content}}
 				</div>
 			</div>
