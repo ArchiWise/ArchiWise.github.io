@@ -98,8 +98,9 @@ span.archiwise{
 }
 
 img.customerlogo{
-width:160px;
+width:200px;
 BORDER:0;
+padding:10px;
 }
 
 /* Footer ---------------------- */
