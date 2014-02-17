@@ -48,6 +48,10 @@ span.menubutton {
 .btn-group-lg > a.btn:hover, .btn-group-lg > a.btn:active, .btn-group-lg > a.btn:focus {
 	color:#00000;
 	background-color: #56565C;
+	
+	color:#FCFF00;
+
+	text-decoration: bold;
 }
 
 .btn-group-lg > a.btn {
