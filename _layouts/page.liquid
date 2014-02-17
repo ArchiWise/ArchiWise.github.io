@@ -48,21 +48,11 @@
 			<nav class="row">
 				<div class="{{ grid_columns }} menubar">
 					<div class="btn-group btn-group-lg btn-group-justified hidden-xs">
-						<a href="/index.html" type="button" class="btn btn-default">Home</a>
-						<a href="/architecture.html" type="button" class="btn btn-default">Architecture</a>
-						<a href="/sessions.html" type="button" class="btn btn-default">Sessions</a>
-						<a href="/references.html" type="button" class="btn btn-default">References</a>
-						<a href="/about.html" type="button" class="btn btn-default">About Us</a>
-						<a href="/contact.html" type="button" class="btn btn-default">Contact</a>				
+						{% include menubuttons.html %}			
 					</div>
 					
 					<div class="btn-group btn-group-lg btn-group-vertical visible-xs">
-						<a href="index.html" type="button" class="btn btn-default">Home</a>
-						<a href="/architecture.html" type="button" class="btn btn-default">Architecture</a>
-						<a href="/sessions.html" type="button" class="btn btn-default">Sessions</a>
-						<a href="references.html" type="button" class="btn btn-default">References</a>
-						<a href="about.html" type="button" class="btn btn-default">About Us</a>
-						<a href="contact.html" type="button" class="btn btn-default">Contact</a>					
+						{% include menubuttons.html %}						
 					</div>
 				</div>
 			</nav>
