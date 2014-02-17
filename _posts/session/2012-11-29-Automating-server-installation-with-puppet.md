@@ -5,9 +5,6 @@ categories: session
 excerpt: Hands-on session presented at XP-days, together with Johan Peeters, 29/11/2012
 ---
 
-###Automating server installation and maintenance with Puppet
-Hands-on session presented at XP-days, together with Johan Peeters, 29/11/2012
-
 ####Description
 
 Before we used Puppet, server infrastructure was a source of frustration. It was something we did not have under control.

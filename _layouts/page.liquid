@@ -60,6 +60,9 @@
 				<div class="{{ grid_columns }} content">
 					{% if page.categories contains 'session' %}
 						<a href="/sessions.html"><span class="glyphicon glyphicon-chevron-left"></span> Back to sessions</a>
+					<h3>{{page.title}}</h3>
+					{{page.excerpt}}	
+						
 					{% endif %}
 					{{ content}}
 				</div>
