@@ -15,7 +15,7 @@ We regularly organize sessions at conferences on architecture-related topics:
   		{% if post.categories contains 'session' %} 
     		<li>
       			<a href="{{ post.url }}">{{ post.title }}</a>      
-      		<!--	<p>{{ post.excerpt }}</p> -->
+      			<p>{{ post.excerpt }}</p>
 		    </li>
 		{% endif %}
   	{% endfor %}

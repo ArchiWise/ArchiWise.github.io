@@ -2,6 +2,7 @@
 layout: page
 title: How much architecture documentation is needed?
 categories: session
+excerpt: Discussion organized at BelgAF by Alexander (more information), 17/01/2013
 ---
 
 ###How much architecture documentation is needed?
