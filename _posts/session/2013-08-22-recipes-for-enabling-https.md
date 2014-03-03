@@ -2,7 +2,7 @@
 layout: page
 title: Recipes for enabling HTTPS
 categories: session
-excerpt: Session organised on AppSecEU 2013 with Thomas Herlea and Johan Peeters, 22/08/2014
+excerpt: Session organised on AppSecEU 2013 with Thomas Herlea and Johan Peeters, 22/08/2013
 ---
 
 ####Abstract
