@@ -3,7 +3,7 @@ layout: page
 title: Sessions
 ---
 ###Sessions
-We regularly organize sessions on architecture-related topics:
+In addition to our consulting activities, we regularly organize sessions at various events on architecture-related topics:
 
 <ul>
 	{% for post in site.posts %}
