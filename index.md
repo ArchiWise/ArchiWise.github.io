@@ -5,10 +5,10 @@ title: ArchiWise
 
 ###IT Architecture
 <span class="archiwise">archi<b>wise</b></span> in a nutshell: 
-- we specialise in consulting on <i>software architecture</i> and <i>solution architecture</i>;
-- we focus on vendor-neutral advice for strategic ICT projects, including on architecture design, specification, audit, reconstruction, etc; 
-- we value practical, no-nonsense architectural solutions that improve the quality of your software;
-- we are actively involved: close collaboration on-site, as team lead/member, as external auditor, as organizer of trainings, etc.
+* we specialise in consulting on <i>software architecture</i> and <i>solution architecture</i>;
+* we focus on vendor-neutral advice for strategic ICT projects, including on architecture design, specification, audit, reconstruction, etc; 
+* we value practical, no-nonsense architectural solutions that improve the quality of your software;
+* we are actively involved: close collaboration on-site, as team lead/member, as external auditor, as organizer of trainings, etc.
 
 
 At <span class="archiwise">archi<b>wise</b></span>, our passion for IT architecture goes beyond our consulting services:  
