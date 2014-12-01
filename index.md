@@ -15,7 +15,11 @@ title: ArchiWise
 * we are actively involved: close collaboration on-site, as team lead/member, as external auditor, as organizer of trainings, etc.
 
 At <span class="archiwise">archi<b>wise</b></span>, our passion for IT architecture goes beyond our consulting services:  
-- our [roots](/about.html) are in software <i>architecture research</i> (at <a href="http://distrinet.cs.kuleuven.be/" target="_blank">DistriNet</a>/<a href="http://www.kuleuven.be/" target="_blank">KU Leuven</a>);
-- we co-founded [BelgAF](http://www.belgaf.be) (<b>Bel</b>gian <b>A</b>rchitecture <b>F</b>orum), a non-profit organisation that enables IT architects to share knowledge and experiences;
-- we regularly organise [sessions](/sessions.html) at various events to consolidate and share what we have learned;
-- we are convinced learning is fun, which is embodied by [softwarewolves](http://www.softwarewolves.net), an engaging one-day coding contest for developers that combines both entertainment and learning;
+
+* our [roots](/about.html) are in software <i>architecture research</i> (at <a href="http://distrinet.cs.kuleuven.be/" target="_blank">DistriNet</a>/<a href="http://www.kuleuven.be/" target="_blank">KU Leuven</a>);
+
+* we co-founded [BelgAF](http://www.belgaf.be) (<b>Bel</b>gian <b>A</b>rchitecture <b>F</b>orum), a non-profit organisation that enables IT architects to share knowledge and experiences;
+
+* we regularly organise [sessions](/sessions.html) at various events to consolidate and share what we have learned;
+
+* we are convinced learning is fun, which is embodied by [softwarewolves](http://www.softwarewolves.net), an engaging one-day coding contest for developers that combines both entertainment and learning;
